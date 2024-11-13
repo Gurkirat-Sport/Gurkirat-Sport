@@ -7,7 +7,7 @@
 <h1>Soccer 4 U</h1>
 
 
-<p>Ever wanted to get cheap soccer equipment, but it all seems so expensive. Well, Here at Soccer 4 U, You can find all sorts of top-quality equipment at the reasonable prices everyone wants. For purchase info scroll below, But for now, take a look at all the things you could buy.</p>
+<p>Ever wanted cheap soccer equipment, but it all seems ridiculously expensive. Well, Here at Soccer 4 U, You can find all sorts of top-quality equipment at the reasonable prices everyone wants. For purchase info scroll below, But for now, look at all the things you could buy.</p>
 
 <h2> Jerseys </h2>
 

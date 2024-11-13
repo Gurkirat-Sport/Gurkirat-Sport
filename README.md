@@ -26,7 +26,7 @@ Price: 49.99
 Rodrygo Jersey
 Price: 49.99
 
-<img src="Rodri.jpg" width=200 height=/>200
+<img src="Rodri.jpg" width=200 height=/>
 
 </body>
 </html>

@@ -14,17 +14,17 @@
 <p> Here are some of our top-selling jerseys in high demand. You better hurry, or they might run about </p>
 
 Ronaldo Jersey
-Price: 39.99
+Price: 49.99
 
 <img src="Mens-Youths-2022-Al-NASSR-FC-Soccer-Jersey-7-Fans-Jerseys-Football-Team-Shirts_bc7198b5-3948-4ffa-83bc-12300bf46c6c.63ddb49a6b22182800ed6cb9ddfdc25c.jpg" width="200" height="200"/>
 
 Messi Jersey
-Price: 39.99
+Price: 49.99
 
 <img src="ETYGHF56-lionel-messi-10-argentina-home-soccer.jpg" width=200 height=220/>
 
 Rodrygo Jersey
-Price: 39.99
+Price: 49.99
 
 <img src="Rodri.jpg" width=200 height=/>200
 

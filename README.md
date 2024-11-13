@@ -21,8 +21,12 @@ Price: 39.99
 Messi Jersey
 Price: 39.99
 
-<img src="ETYGHF56-lionel-messi-10-argentina-home-soccer.jpg" width=200 height=200/>
+<img src="ETYGHF56-lionel-messi-10-argentina-home-soccer.jpg" width=200 height=220/>
 
+Rodrygo Jersey
+Price: 39.99
+
+<img src="Rodri.jpg" width=200 height=/>200
 
 </body>
 </html>

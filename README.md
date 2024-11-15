@@ -6,7 +6,6 @@
 
 <h1>Soccer 4 U</h1>
 
-
 <p>Ever wanted cheap soccer equipment, but it all seems ridiculously expensive. Well, Here at Soccer 4 U, You can find all sorts of top-quality equipment at the reasonable prices everyone wants. For purchase info scroll below, But for now, look at all the things you could buy.</p>
 
 <h2> Jerseys </h2>
@@ -27,6 +26,13 @@ Rodrygo Jersey
 Price: 49.99
 
 <img src="Rodri.jpg" width=200 height=/>
+
+<h2> Gear </h2>
+
+<p>Here, you can find all sorts of safety gear used in a soccer match, like cleats of Shin Pads, for professional play</p>
+
+Shin Pads
+Price: 
 
 </body>
 </html>

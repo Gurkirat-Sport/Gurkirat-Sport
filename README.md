@@ -36,8 +36,8 @@ Price: $50 per pair
 
 <img src="download.jpg" width=200 height=200/>
 
-Cleets
-Price
+Cleats/ Soccer Boots
+Price: $50
 
 </body>
 </html>

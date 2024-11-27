@@ -29,10 +29,13 @@ Price: 49.99
 
 <h2> Gear </h2>
 
-<p>Here, you can find all sorts of safety gear used in a soccer match, like cleats of Shin Pads, for professional play</p>
+<p>Here, you can find all sorts of safety gear used in a soccer match, like cleats or Shin Pads, for professional play</p>
 
 Shin Pads
-Price: 
+Price: $50 per pair
+
+Cleets
+Price
 
 </body>
 </html>

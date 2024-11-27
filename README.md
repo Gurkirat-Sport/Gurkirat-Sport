@@ -25,7 +25,7 @@ Price: 49.99
 Rodrygo Jersey
 Price: 49.99
 
-<img src="Rodri.jpg" width=200 height=/>
+<img src="Rodri.jpg" width=200 height=200/>
 
 <h2> Gear </h2>
 
@@ -34,7 +34,7 @@ Price: 49.99
 Shin Pads
 Price: $50 per pair
 
-<img src="download.jpg" width=100 height=100/>
+<img src="download.jpg" width=200 height=200/>
 
 Cleets
 Price

@@ -52,5 +52,17 @@ Price: 39.99
 
 <img src="9-255-4.webp" width=200 height=200/>
 
+<h2> Contacts <h2/>
+
+<h4>For more info, contact us with any of our business contact details.</h4>
+
+Phone Number: 0123 456 789
+
+Email: Soccer.4U@email.com
+
+Shop Address: Blacktown, Blaster Road, NSW, Australia
+
+I hope this was useful for you, and remember if you ever want equipment on a cheap price, contact us.
+
 </body>
 </html>

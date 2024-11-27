@@ -13,17 +13,20 @@
 <p> Here are some of our top-selling jerseys in high demand. You better hurry, or they might run about </p>
 
 Ronaldo Jersey
-Price: 49.99
+
+Price: 79.99
 
 <img src="Mens-Youths-2022-Al-NASSR-FC-Soccer-Jersey-7-Fans-Jerseys-Football-Team-Shirts_bc7198b5-3948-4ffa-83bc-12300bf46c6c.63ddb49a6b22182800ed6cb9ddfdc25c.jpg" width="200" height="200"/>
 
 Messi Jersey
-Price: 49.99
+
+Price:79.99
 
 <img src="ETYGHF56-lionel-messi-10-argentina-home-soccer.jpg" width=200 height=220/>
 
 Rodrygo Jersey
-Price: 49.99
+
+Price: 79.99
 
 <img src="Rodri.jpg" width=200 height=200/>
 
@@ -32,12 +35,22 @@ Price: 49.99
 <p>Here, you can find all sorts of safety gear used in a soccer match, like cleats or Shin Pads, for professional play</p>
 
 Shin Pads
-Price: $50 per pair
+
+Price: $99.99 per pair
 
 <img src="download.jpg" width=200 height=200/>
 
 Cleats/ Soccer Boots
-Price: $50
+
+Price: $99.99
+
+<img src="nike-baseball-footwear-mens-lunar-vapor-ultrafly-elite-2-black-white_1024x1024.webp" width= 200 height=200/>
+
+Soccer Ball
+
+Price: 39.99
+
+<img src="
 
 </body>
 </html>

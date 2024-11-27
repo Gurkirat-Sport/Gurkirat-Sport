@@ -34,6 +34,8 @@ Price: 49.99
 Shin Pads
 Price: $50 per pair
 
+<img src="download.jpg" width=100 height=100/>
+
 Cleets
 Price
 
